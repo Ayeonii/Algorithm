@@ -1,7 +1,7 @@
-import UIKit
+import Foundation
 
 /*
- * MARK:- 메뉴 리뉴얼 : https://programmers.co.kr/learn/courses/30/lessons/72411
+ * - 메뉴 리뉴얼 : https://programmers.co.kr/learn/courses/30/lessons/72411
  */
 
 print(solution(["ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"], [2, 3, 4]))
