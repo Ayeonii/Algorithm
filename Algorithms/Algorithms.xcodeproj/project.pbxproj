@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		CC177D0E26BBD89A000C41D0 /* BinaryGap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinaryGap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CCA6134B268ECFC400F235DF /* 문자열 압축.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 압축.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CCE469BD2685CBB100EE25A9 /* 메뉴 리뉴얼.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "메뉴 리뉴얼.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CCE469BE2685D5AA00EE25A9 /* 순위 검색.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "순위 검색.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -17,9 +18,18 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		CC177D0D26BBD87C000C41D0 /* Codility */ = {
+			isa = PBXGroup;
+			children = (
+				CC177D0E26BBD89A000C41D0 /* BinaryGap.playground */,
+			);
+			path = Codility;
+			sourceTree = "<group>";
+		};
 		CCE469B52685CB8500EE25A9 = {
 			isa = PBXGroup;
 			children = (
+				CC177D0D26BBD87C000C41D0 /* Codility */,
 				CCE469BC2685CB8E00EE25A9 /* Programmers */,
 			);
 			sourceTree = "<group>";
